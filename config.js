@@ -7,7 +7,7 @@
    After editing on GitHub, click "Commit changes" and reload the app.
    ============================================================ */
 window.CCMS_CONFIG = {
-  SCRIPT_URL: "PASTE_YOUR_APPS_SCRIPT_URL_HERE",
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxYiMKq3Fm9luLRosYCHK1Y9mU-fFxXrBNLaYEv2elJ1GynQpNTyu5LMiGazWETlAy4/exec",
   APP_NAME: "Court Case Monitoring System",
   DEPARTMENT: "Department of Skill Development & Employment \u00B7 Government of Uttarakhand"
 };
